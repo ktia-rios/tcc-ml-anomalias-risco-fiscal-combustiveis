@@ -1,5 +1,6 @@
 # =============================================================
-# TCC MBA em Data Science — Machine Learning Aplicado à Detecção de Anomalias e Priorização de Risco Fiscal em Combustíveis
+# TCC MBA em Data Science - Machine Learning Aplicado à Detecção 
+de Anomalias e Priorização de Risco Fiscal em Combustíveis
 # requirements.txt — compatível com Python 3.13
 # =============================================================
 
