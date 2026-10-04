@@ -23,7 +23,7 @@ A abordagem combina o algoritmo **Isolation Forest** para detecção de anomalia
 ## 🗂️ Estrutura do Projeto
 
 ```
-tcc-scoring-risco-icms/
+tcc-ml-anomalias-risco-fiscal-combustiveis/
 │
 ├── data/
 │   ├── raw/                        # Dados brutos (não versionados — LGPD)
