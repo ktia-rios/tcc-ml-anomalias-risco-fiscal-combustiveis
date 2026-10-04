@@ -1,5 +1,6 @@
    # 🔍 Machine Learning Aplicado à Detecção de Anomalias e Priorização de Risco Fiscal em Combustíveis
-      > *Machine Learning Aplicado à Detecção de Anomalias Fiscais na Cadeia de Combustíveis do RJ*
+   
+   > *Machine Learning Aplicado à Detecção de Anomalias Fiscais na Cadeia de Combustíveis do RJ*
 
 > **TCC — MBA em Data Science e Analytics | USP ESALQ**
 > **Aluna:** Kátia Rios Nóbrega de Mello
