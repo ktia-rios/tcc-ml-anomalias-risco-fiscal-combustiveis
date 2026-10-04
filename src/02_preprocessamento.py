@@ -1,6 +1,7 @@
 """
 =============================================================
-TCC MBA Data Science — Análise de Fraudes Fiscais (ICMS)
+TCC MBA em Data Science - Machine Learning Aplicado à Detecção 
+de Anomalias e Priorização de Risco Fiscal em Combustíveis
 =============================================================
 Script: 02_preprocessamento.py
 Objetivo: Processar dados brutos focando em
