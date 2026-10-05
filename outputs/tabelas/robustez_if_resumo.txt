@@ -1,0 +1,21 @@
+
+════════════════════════════════════════════════════════════
+  ROBUSTEZ DO ISOLATION FOREST
+  Modelo completo vs. sem indicadores do score manual
+════════════════════════════════════════════════════════════
+
+  Variáveis modelo completo:    40
+  Variáveis sem score manual:   27
+  Indicadores removidos:        13
+
+  Correlação de Spearman (ρ):   0.8921
+  p-valor:                      0.00e+00
+
+  Sobreposição Top-50:          38/50 (76%)
+  Sobreposição Top-152 (10%):   121/152 (79.6%)
+
+  Diferença média de ranking:   158.6 posições
+  Diferença mediana de ranking: 132.0 posições
+  Diferença máxima de ranking:  812 posições
+
+════════════════════════════════════════════════════════════
