@@ -1,0 +1,5 @@
+contamination,n_anomalias,pct_amostra,overlap_base_10pct,overlap_top50
+5%,76,5.0,50.0,100.0
+10%,152,10.0,100.0,100.0
+15%,228,15.0,100.0,100.0
+20%,304,20.0,100.0,100.0
